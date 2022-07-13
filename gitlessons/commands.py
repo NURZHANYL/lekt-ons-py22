@@ -29,4 +29,15 @@
 
 # git push origin main 
 
-. 
+____________________________
+1. git init 
+2. git branch -M main (pereimenovyvaem glavnyuyu vetku s master na main)
+3. git add . 
+4. git commit -m 'comment' (vse dobavleno v lokal repo)
+5. git remote add origin <url>
+6. git push origin main 
+/////////////////////
+
+git add . 
+git commit -m 'comment'
+git push origin main 
